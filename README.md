@@ -1,2 +1,2 @@
-# Online-Shopping-Demo-C-
+# Online-Shopping-Demo-C++
 Demo C++ Code
